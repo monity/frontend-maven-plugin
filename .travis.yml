@@ -21,7 +21,7 @@ addons:
   sonarcloud:
     organization: "monity"
     token:
-      secure: 09b8441760fd47182772436e819f068037ef9677 # encrypted value of your token
+      secure: 843bc3da72d7de9747366212f519405ac7cdb98b # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
